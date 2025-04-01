@@ -17,7 +17,7 @@ Demortica has been crafted using the following technologies:
 
 ## 🚀 Getting Started
 You can access the game directly from the link below:
-👉 [Play Word Quest](https://demortica.netlify.app/)
+👉 [Play Word Quest](https://hangman-wordquest.netlify.app/)
 
 ### Running Locally
 If you'd like to run this project locally, follow these steps:
