@@ -3,10 +3,10 @@
 **Word Quest** is a fun and interactive web-based Hangman game that challenges players to guess a hidden word by selecting letters. Each incorrect guess adds a part of the hangman figure, creating a sense of tension and excitement as the game progresses.
 
 ## 🎮 Features
-- **Guessing Game: Players select letters to guess a hidden word.
-- **Interactive UI: Easy-to-use interface for a smooth gameplay experience.
-- **Hangman Challenge: A new part of the hangman figure is drawn with each wrong guess.
-- **Game Over/Win Conditions: Alerts players when they win or lose the game.
+- Guessing Game: Players select letters to guess a hidden word.
+- Interactive UI: Easy-to-use interface for a smooth gameplay experience.
+- Hangman Challenge: A new part of the hangman figure is drawn with each wrong guess.
+- Game Over/Win Conditions: Alerts players when they win or lose the game.
 
 ## 📌 Pages
 - **Home:** Discover recommended categories and track the total available content on Demortica.
