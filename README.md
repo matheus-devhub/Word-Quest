@@ -28,7 +28,7 @@ If you'd like to run this project locally, follow these steps:
    ```
 2. **Navigate to the project directory:**
    ```sh
-   cd Word Quest
+   cd Word-Quest
    ```
 3. **Open `index.html` in your browser** or use Live Server in VS Code.
 
