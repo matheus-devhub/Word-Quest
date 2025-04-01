@@ -8,12 +8,6 @@
 - Hangman Challenge: A new part of the hangman figure is drawn with each wrong guess.
 - Game Over/Win Conditions: Alerts players when they win or lose the game.
 
-## 📌 Pages
-- **Home:** Discover recommended categories and track the total available content on Demortica.
-- **Creepypasta:** Dive into unsettling tales that will send shivers down your spine.
-- **Character:** Encounter iconic and original horror characters that will haunt your nightmares.
-- **Mythology:** Uncover the secrets of folklore, myths, and legends.
-
 ## 🖥️ Technologies Used
 Demortica has been crafted using the following technologies:
 
